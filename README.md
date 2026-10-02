@@ -4,6 +4,6 @@ Desenvolvedor Backend focado em **Python, AWS e dados**, atuando no setor de **h
 
 **Stack:** Python · AWS (Lambda, ECS Fargate, SQS, EventBridge) · Celery · SQL · SQLAlchemy · Pydantic · Pandas/Polars · pytest · CI/CD
 
-**Em destaque:** [SaaSClinico](https://github.com/AndersonGabrielBD/SaaSClinico) — SaaS de gestão para clínicas (ClinNext), do backend à interface · [ladinpageclinnext](https://github.com/AndersonGabrielBD/ladinpageclinnext) — landing page de vendas do ClinNext
+**Em destaque:** [ClinNext](https://github.com/AndersonGabrielBD/ClinNext) — SaaS de gestão para clínicas, do backend à interface · [webscraping](https://github.com/AndersonGabrielBD/webscraping) — pipeline de dados públicos da ANS (scraping, ETL, API) · [ladinpageclinnext](https://github.com/AndersonGabrielBD/ladinpageclinnext) — landing page de vendas do ClinNext
 
 📫 Contato: gaabrieelbarbosaa@gmail.com · LinkedIn (em breve)
