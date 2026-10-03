@@ -2,10 +2,10 @@
 
 Desenvolvedor Backend focado em **Python, AWS e dados**, atuando no setor de **healthtech** na IntuitiveCare.
 
-**Stack:** Python · AWS (Lambda, ECS Fargate, SQS, EventBridge) · Celery · SQL · SQLAlchemy · Pydantic · Pandas/Polars · pytest · CI/CD
+**Stack Principal:** Python · AWS (Lambda, ECS Fargate, SQS, EventBridge) · Celery · SQL · SQLAlchemy · Pydantic · Pandas/Polars · pytest · CI/CD · React · Next 
 
 ---
-
+### Projetos em destaque:
 ###  [ClinNext](https://github.com/AndersonGabrielBD/ClinNext)
 
 <img src="images/clinnext.png" width="520" alt="Dashboard do ClinNext mostrando pacientes, agenda e centro financeiro" />
