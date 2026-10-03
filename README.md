@@ -6,7 +6,7 @@ Desenvolvedor Backend focado em **Python, AWS e dados**, atuando no setor de **h
 
 ---
 
-### 🏥 [ClinNext](https://github.com/AndersonGabrielBD/ClinNext)
+###  [ClinNext](https://github.com/AndersonGabrielBD/ClinNext)
 
 <img src="images/clinnext.png" width="520" alt="Dashboard do ClinNext mostrando pacientes, agenda e centro financeiro" />
 
@@ -20,7 +20,7 @@ SaaS completo de gestão para clínicas, do backend à interface — criado pra 
 
 ---
 
-### 🎮 [steam-price-tracker](https://github.com/AndersonGabrielBD/steam-price-tracker)
+### [steam-price-tracker](https://github.com/AndersonGabrielBD/steam-price-tracker)
 
 <img src="images/steam-price-tracker.png" width="520" alt="Dashboard do steam-price-tracker mostrando jogos rastreados com preço em reais" />
 
